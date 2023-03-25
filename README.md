@@ -24,3 +24,5 @@ https://user-images.githubusercontent.com/114364992/227699731-0e440a12-f223-4c15
 # 💡 Extras
        - Como desafío extra se nos invito a dejar fluir la creatividad y añadir otro tipo de conversor, 
          además del de divisas en mi caso agregue, un conversor de masas
+# 📁 Insignia
+![cms_files_10224_1671211831Prancheta_8](https://user-images.githubusercontent.com/114364992/227700526-725ad43d-9647-4df2-bfa2-3e91193121b7.png)
